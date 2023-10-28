@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&size=30&duration=2000&pause=1000&color=499FF7&multiline=true&random=false&width=450&lines=Welcome+to+JayMyong66+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)
+
 <a href="https://www.instagram.com/blockchain__valley/" target="_blank"><img src="https://img.shields.io/badge/#3C3C3D?style=flat-square&logo=#3C3C3D&logoColor=	#4169E1"/></a>
