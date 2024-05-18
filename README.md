@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/blockchain__valley/" target="_blank"><img src="https://img.shields.io/badge/#3C3C3D?style=flat-square&logo=#3C3C3D&logoColor=	#4169E1"/></a>
 
 - 고려대학교 중앙컴퓨터동아리 KUCC 
-- 블록체인 밸리 4기 개발팀
+- 블록체인밸리 4기 개발팀
 - 우아한테크코스 6기 FE
