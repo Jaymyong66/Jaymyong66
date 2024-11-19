@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 
 ## 📞 Contact 📞
+ [![](https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=Tistory)](https://jayming66.tistory.com/)
  [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mjw8941@gmail.com)
  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jayming66/)
+ 
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaymyong66%2Fhit-counter&count_bg=%233D86C8&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=Hi&edge_flat=true)](https://hits.seeyoufarm.com)
