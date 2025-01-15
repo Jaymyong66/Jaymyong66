@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 - 고려대학교 중앙컴퓨터동아리 KUCC 
 - 블록체인밸리 4기 개발팀
 - 우아한테크코스 6기 FE
+- 엘리스 Product 팀 / Frontend 스쿼드
