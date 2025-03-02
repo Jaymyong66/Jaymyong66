@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 - 고려대학교 중앙컴퓨터동아리 KUCC 
 - 우아한테크코스 6기 FE
 - 엘리스 Product 팀 / Frontend 스쿼드
+- ...freelancer
