@@ -23,13 +23,18 @@ Here are some ideas to get you started:
  [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mjw8941@gmail.com)
  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jayming66/)
  
-
+<!--
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaymyong66%2Fhit-counter&count_bg=%233D86C8&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=Hi&edge_flat=true)](https://hits.seeyoufarm.com)
+-->
 
 <a href="https://www.instagram.com/blockchain__valley/" target="_blank"><img src="https://img.shields.io/badge/#3C3C3D?style=flat-square&logo=#3C3C3D&logoColor=	#4169E1"/></a>
 
-- 고려대학교 중앙컴퓨터동아리 KUCC 
-- 우아한테크코스 6기 FE
-- 엘리스 Product 팀 / Frontend 스쿼드 (24/12~25/2)
-- ...freelancer
+- 고려대학교 중앙컴퓨터동아리 KUCC
+- 우아한테크코스 6기 FE 수료
+- 엘리스 Product 팀 / Frontend 스쿼드 인턴 (24/12 ~ 25/2)
+- KAIST 블록체인 학회 Orakle 6기 (25/03 ~ )
+
+  -----
+
+- Solana 해커톤 Seoulana - Bitcoin on Solana Track 3rd (25/04)
