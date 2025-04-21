@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 고려대학교 중앙컴퓨터동아리 KUCC
 - 우아한테크코스 6기 FE 수료
 - 엘리스 Product 팀 / Frontend 스쿼드 인턴 (24/12 ~ 25/2)
-- KAIST 블록체인 학회 Orakle 6기 (25/03 ~ )
+- KAIST 블록체인 학회 Orakle 6기
 
   -----
 
