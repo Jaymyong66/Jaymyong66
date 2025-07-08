@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/blockchain__valley/" target="_blank"><img src="https://img.shields.io/badge/#3C3C3D?style=flat-square&logo=#3C3C3D&logoColor=	#4169E1"/></a>
 
-- NAVER FE (25/07 ~ )
+- NAVER (25/07 ~ )
 - 엘리스 Product 팀 / Frontend 스쿼드 인턴 (24/12 ~ 25/2)
 - 고려대학교 중앙컴퓨터동아리 KUCC / 컴퓨터학과 KWEB
 - KAIST 블록체인 학회 Orakle 6기
