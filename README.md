@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - NAVER 동영상앱 Android (25/07 ~ )
 - 엘리스 Product 팀 / Frontend 스쿼드 인턴 (24/12 ~ 25/2)
-- 고려대학교 중앙컴퓨터동아리 KUCC / 컴퓨터학과 KWEB
+- 고려대학교 중앙컴퓨터동아리 KUCC / 컴퓨터학과 KWEB / 블록체인밸리 4기
 - KAIST 블록체인 학회 Orakle 6기
 - 우아한테크코스 6기 Frontend 수료
 
