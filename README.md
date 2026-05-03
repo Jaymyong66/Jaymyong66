@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/blockchain__valley/" target="_blank"><img src="https://img.shields.io/badge/#3C3C3D?style=flat-square&logo=#3C3C3D&logoColor=	#4169E1"/></a>
 
-- NAVER 동영상앱 Android (25/07 ~ )
+- NAVER 네이버앱Android개발2팀 (25/07 ~ )
 - 엘리스 Product 팀 / Frontend 스쿼드 인턴 (24/12 ~ 25/2)
 - 고려대학교 중앙컴퓨터동아리 KUCC / 컴퓨터학과 KWEB / 블록체인밸리 4기
-- KAIST 블록체인 학회 Orakle 6기
+- KAIST 블록체인 학회 Orakle 6기 수료
 - 우아한테크코스 6기 Frontend 수료
 
   -----
